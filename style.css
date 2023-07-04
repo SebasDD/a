@@ -1,0 +1,65 @@
+.logored {
+ color: #F7542E;
+
+}
+body { 
+    height: 100%;
+}
+.logo, a, li {
+    list-style-type: none;
+    display: block;
+
+    font-size: 20px;
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin: 40px;
+    }
+nav {
+    height: 50px;
+}
+a {
+        padding-left: 0px;
+     height: 20px;
+    }
+li a {
+    text-decoration: none;
+    color: darkgrey;
+  
+}
+.first {
+   padding-top: 62px;
+   padding-left: 0px;
+}
+li {
+    
+    margin-left: 14px;
+}
+.buttons P {
+    color: var(--gray-2, #4F4F4F);
+    font-size: 24px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+ 
+
+
+}
+.buttons {
+    margin-left: 340px;
+    top: auto;
+    display: block;
+    float:inline-end;
+}
+
+ul {
+    margin-right: 0px;
+    height: 300px;
+    width: 300px;
+}
+.primary {
+    display: inline-block;
+    margin: 30px;
+}
